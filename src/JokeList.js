@@ -72,3 +72,4 @@ function JokeList({ numJokesToGet = 10 }) {
 }
 
 export default JokeList;
+
